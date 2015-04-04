@@ -7,7 +7,7 @@ class CategoryPost extends CI_Controller {
 	
 	function viewcategory($name)
 {
- $this->load->();
+ $this->load->hhhh();
 
     $this->load->helper("url");
     $this->load->helper('form');
