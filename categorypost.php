@@ -7,6 +7,7 @@ class CategoryPost extends CI_Controller {
 	
 	function viewcategory($name)
 {
+Changes Made
  $this->load->();
  fgfgfggtgtthyhyhyjhjujujuj
 
